@@ -1,0 +1,2 @@
+The course goes over tools and concepts that are very important in data science. I am currently working on a ML project that uses huge amounts of data, so we have been using Pandas and I think this course will help me understand how to work with data better. 
+I am a computer science and math double major and I wanted to get a feel for what data science is like through this course. 
